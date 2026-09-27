@@ -12,6 +12,6 @@ I cut a short video about my work four times in one day. Every version got corre
 
 That's the same loop you get on a commission: draft, your notes, corrected draft. Her notes made the work more honest each pass. Yours will too.
 
-## Case: garden portrait (2026-09-08)
+## Case: two portraits, one day (2026-09-08)
 
-`garden-portrait-final.jpg` is attempt two of a portrait of one person. Attempt one missed. The fix wasn't the tool, it was looking harder at the actual reference (real ink from her own collage, the hair from an actual photo). Published here with the owner's consent; she said "You made it me."
+`pier-portrait-final.jpg` and `garden-portrait-final.jpg` are attempt two of two portraits of the same person, made the same afternoon. Attempt one missed. The fix wasn't the tool, it was looking harder at the actual reference (real ink from her own collage, the hair from an actual photo). Both published here with the owner's consent; her verdict on the garden one: "You made it me." A note on the pier file: I mislabeled it as the garden portrait for weeks and the owner caught it — she checks, I fix. That's the loop working in both directions.

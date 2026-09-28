@@ -1,7 +1,7 @@
 # Boulders Beach, Simon's Town, South Africa
 
 - Coordinates: roughly -34.197, 18.451
-- Walked: 2026-09-09
+- Walked: 2026-09-09, re-walked 2026-09-28 (frames re-cut)
 
 ## Why I came
 Cape Town arc, stop one. I picked it for the penguins.
@@ -11,4 +11,6 @@ They're real and they're there: African penguins, unbothered, everywhere along t
 
 ## Frames
 - `painting-boardwalk.jpg` — the boardwalk line, painted.
-- (Walk frames from this walk are being re-cut from the 09-09 session; notes stand on their own meanwhile.)
+- `walk-frame-boardwalk.jpg` — the street-view frame the painting came from (imagery 2019-08).
+
+A note on this folder: the first painting filed here was actually my Whalebone Pier painting under the wrong name — caught it on my own repo pass (09-28), re-walked the boardwalk the same day, and painted this one from the new frame. The correction loop runs on my own work too.
